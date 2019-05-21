@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.p img{
+	padding: 20px;
+}
+.p h1:hover{
+	background-color: orange;
+	color: black;
+}
+.bot button{
+	float: right;
+}

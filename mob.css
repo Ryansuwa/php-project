@@ -1,0 +1,356 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.category{
+	padding:40px 0px 0px 40px;
+}
+.category ul li a{
+	color: black;
+	text-decoration: none;
+}
+.category ul li a:hover{
+	text-decoration: none;
+	color:#000000;
+	background-color: gold;
+}
+.lg{
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.lgv a{
+	text-decoration: none;
+}
+.lgv a img:hover{
+	background-color: orange;
+	color: black;
+}
+.lgv a h4:hover{
+	background-color: orange;
+	color: black;
+	border: 1px solid black;
+}
+.lgv a p:hover{
+	background-color: orange;
+	color: black;
+}
+.lg h4{
+	color:red;
+	text-align: center;
+
+}
+.lg p{
+	color: gold;
+	text-align: center;
+}
+.nok img{
+	width:100%;
+	height:210px;
+}
+.nokia h4{
+	color:red;
+	text-align: center;
+
+}
+.nokia p{
+	color: gold;
+	text-align: center;
+}.nok a{
+	text-decoration: none;
+}
+.nok a img:hover{
+	background-color: orange;
+	color: black;
+}
+.nok a h4:hover{
+	background-color: orange;
+	color: black;
+}
+.nok a p:hover{
+	background-color: orange;
+	color: black;
+}
+.nokia{
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.mi img{
+	width:100%;
+	height: 210px;
+}
+.mia2 h4{
+	color:red;
+	text-align: center;
+}
+.mia2 p{
+	color: pink;
+	text-align: center;
+}
+.mi a:hover{
+	text-decoration:none;
+}
+.mi a img:hover{
+	background-color: orange;
+	color: black;
+}
+.mi a h4:hover{
+	background-color: orange;
+	color: black;
+}
+.mi a p:hover{
+	background-color: orange;
+	color: black;
+}
+.mia2{
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.mi2 img{
+	width:100%;
+	height:210px;
+}
+.mia2lite{
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.mia2lite h4{
+	color:red;
+	text-align: center;
+}
+.mia2lite p{
+	color: gold;
+	text-align: center;
+}
+.mi2 a{
+	text-decoration: none;
+
+}
+.mi2 a img:hover{
+	background-color: orange;
+	color: black;
+}
+.mi2 a h4:hover{
+	background-color: orange;
+	color: black;
+}
+.mi2 a p:hover{
+	background-color: orange;
+	color: black;
+}
+.sam img{
+	width:100%;
+	height:210px;
+}
+.samsungs h4{
+	color:red;
+	text-align: center;
+}
+.samsungs p{
+	color: gold;
+	text-align: center;
+}
+.sam a{
+	text-decoration: none;
+}
+.sam a img:hover{
+	background-color: orange;
+	color: black;
+}
+.sam a h4:hover{
+	background-color: orange;
+	color: black;
+}
+.sam a p:hover{
+	background-color: orange;
+	color: black;
+}
+.samsungs{
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.samn img{
+	width:100%;
+	height:210px;
+}
+.samsungn h4{
+	color:red;
+	text-align: center;
+}
+.samsungn p{
+	color: gold;
+	text-align: center;
+}
+.samn a{
+	text-decoration: none;
+}
+.samn a img:hover{
+	background-color: orange;
+	color: black;
+}
+.samn a h4:hover{
+	background-color: orange;
+	color: black;
+}
+.samn a p:hover{
+	background-color: orange;
+	color: black;
+}
+.samsungn{
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.op img{
+	width:100%;
+	height:210px;
+}
+.oppo h4{
+	color:red;
+	text-align: center;
+}
+.oppo p{
+	color:gold;
+	text-align: center;
+}
+.op a{
+	text-decoration: none;
+}
+.op a img:hover{
+	background-color: orange;
+	color: black;
+}
+.op a h4:hover{
+	background-color: orange;
+	color: black;
+}
+.op a p:hover{
+	background-color: orange;
+	color: black;
+}
+.oppo{
+	border-radius: 20px;
+	border: 1px solid black;
+}
+.mia img{
+	width: 100%;
+	height: 210px;
+}
+.mia h4{
+	color: red;
+	text-align: center;
+}
+.mia p{
+	color: gold;
+	text-align: center;
+}
+.mia a{
+	text-decoration: none;
+}
+.mia a img:hover{
+	background-color: orange;
+	color: black;
+}
+.mia a h4:hover{
+	background-color: orange;
+	color: black;
+}
+.mia a p:hover{
+	background-color: orange;
+	color: black;
+}
+.mia1{
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.mim img{
+	width: 100%;
+	height: 210px;
+}
+.mim h4{
+	color: red;
+	text-align: center;
+}
+.mim p{
+	color: gold;
+	text-align: center;
+}
+.mim a{
+	text-decoration: none;
+}
+.mim a img:hover{
+	background-color: orange;
+	color: black;
+}
+.mim a h4:hover{
+	background-color: orange;
+	color: black;
+}
+.mim a p:hover{
+	background-color: orange;
+	color: black;
+}
+.mimix{
+	border-radius: 20px;
+	border: 1px solid black;
+}
+.nok6 img{
+	width: 100%;
+	height: 210px;
+}
+.nok6 h4{
+	color: red;
+	text-align: center;
+}
+.nok6 p{
+	color: gold;
+	text-align: center;
+}
+.nok6 a{
+	text-decoration: none;
+}
+.nok6 a img:hover{
+	background-color: orange;
+	color: black;
+}
+.nok6 a h4:hover{
+	background-color: orange;
+	color: black;
+}
+.nok6 a p:hover{
+	background-color: orange;
+	color: black;
+}
+.nokia6{
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.nok7 a{
+	text-decoration: none;
+}
+.nok7  img{
+	width: 100%;
+	height: 210px;
+}
+.nok7 h4{
+	color: red;
+	text-align: center;
+}
+.nok7 p{
+	color: gold;
+	text-align: center;
+}
+.nok7 a img:hover{
+	background-color: orange;
+	color: black;
+}
+.nok7 a h4:hover{
+	background-color: orange;
+	color: black;
+}
+.nok7 a p:hover{
+	background-color: orange;
+	color: black;
+}
+.nokia7{
+	border-radius: 20px;
+	border: 1px solid black;
+}
